@@ -4,6 +4,7 @@
 .settings
 maven-eclipse.xml
 target
-pom.xml~
 pom.xml
+pom.xml~
+.gitignore~
 .ekstazi
